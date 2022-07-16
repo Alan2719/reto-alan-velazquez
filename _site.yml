@@ -1,0 +1,11 @@
+name: "Citibike dataset"
+output_dir: docs
+navbar:
+  title: "Citibike dataset"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Firebase App"
+      href: about.html
+    - text: "Heroku App"
+      href: heroku.html

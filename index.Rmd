@@ -1,0 +1,11 @@
+---
+title: "Citibike Dataset"
+---
+
+## Citibike Project
+
+--------------
+
+##### Citibike is the biggest bike project in the United States, with more than **20,000** bikes and around **1,300** stations in Manhattan, Brooklyn, Queens, The Bronx and Jersey City.
+
+##### There is a data base with the information about the routes that people actually travel. Data scientists can use this data set to build dashboards that allow to visualize these routes, graph the use of bikes by hour, highlight the stations that have more demand at certain hours, etc.
